@@ -1,0 +1,15 @@
+*.class
+*.jar
+.lein-deps-sum
+.lein-failures
+.lein-plugins
+/.lein-failures
+/checkouts
+/classes
+/lib
+/logs
+/doc/uberdoc.html
+/doc/todo.md.html
+/native
+/target
+pom.xml
