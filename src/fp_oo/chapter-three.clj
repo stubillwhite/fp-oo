@@ -82,10 +82,6 @@
 
 ;; Bonus points -- equality ignoring vertex order
 
-(def equal-right-triangle (Triangle (Point 0 0)
-                                    (Point 0 1)
-                                    (Point 1 0)))
-
 (def triangle-1
   (Triangle (Point 0 0)
             (Point 0 1)
